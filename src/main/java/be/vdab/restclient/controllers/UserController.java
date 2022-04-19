@@ -22,3 +22,5 @@ public class UserController {
         return mov;
     }
 }
+
+//je kunt de applicatie starten en surfen naar: http://localhost:8080/users/1
